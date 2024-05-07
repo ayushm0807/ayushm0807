@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **Blockchain and Web development.**
+- 🌱 I’m currently learning **NextJS/Typescript.**
 
-- 👯 I’m looking to collaborate on **MERN Project**
+- 👯 I’m looking to collaborate on **MERN Projects.**
 
 - 💬 Ask me about **associated tech with Web and C/C++.**
 
